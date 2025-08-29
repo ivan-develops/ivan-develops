@@ -18,20 +18,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-✨ Aquí algunos proyectos que puedes revisar en mis repositorios:
-
-- 📝 **To-Do App (JS + LocalStorage)** → [Ver demo](#)  
-- 🌦️ **Weather App (API pública)** → [Ver demo](#)  
-- 🎨 **Clon de interfaz (Netflix / Spotify)** → [Ver demo](#)  
-- 🛒 **Mini e-commerce frontend** → [Ver demo](#)  
-
-*(Estos proyectos los irás publicando y los fijas en tu perfil con la opción **Pinned repositories**).*
-
----
-
 ## 📈 GitHub Stats
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-develops&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-develops&layout=compact&theme=tokyonight)
 
 ---
