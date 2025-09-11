@@ -28,4 +28,8 @@
 ## 🌍 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/ivanvargaso/)  
 - [GitHub](https://github.com/ivan-develops)  
-- 📧 **ivanvargas.va@gmail.com**  
+- 📧 **ivanvargas.va@gmail.com**
+
+---
+
+my latest projects are pinned 👇
