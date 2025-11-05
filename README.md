@@ -8,6 +8,7 @@
 - 🎓 Soy técnico en Diseño Gráfico (INCAP 2018) y estudiante de Ingeniería Multimedia (UNAD, 8° semestre).  
 - 📚 Más de 3 años de experiencia en **diseño multimedia y e-learning** (Moodle, Articulate 360, Genially).  
 - 💡 Estoy en transición hacia el **desarrollo frontend**, con conocimientos en HTML, CSS, JavaScript, Git/GitHub.
+- ⚛️ En aprendizaje de ReactJS
 - 🎯 Busco crear **interfaces útiles, intuitivas y accesibles**, que solucionen problemas reales.  
 
 ---
