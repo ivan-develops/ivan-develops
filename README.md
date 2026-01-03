@@ -28,4 +28,4 @@
 
 ---
 
-my latest projects are pinned 👇
+Mis últimos proyectos fijados en el perfil 👇
